@@ -23,11 +23,12 @@
 
 
 
-<h2>🧑‍🏫 Certifications & Skills:</h2>
+<h2>🧑‍🏫 Certifications:</h2>
 
 - **Scrum Certification Prep + Agile Scrum Training**
 - **Product Management Basics Certification**
 - **AI for Product Management**
+- **EF SET English Certificate 82/100 (C2 Proficient)**
 
 
 
